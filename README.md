@@ -24,8 +24,6 @@ Apart of that, the dataset contains "wrist" column which represents the wrist wh
 "1": right wrist
 Additionally, the dataset contains "date", "time" and "username" columns which provide information about the exact date, time and user which collected these measurements.
 
-Can you build a strong classifier model to detect these so that it can be incorporated in the IOS device?
-
 ### Acknowledgements:
 This dataset has been referred from Kaggle.
 It complements https://github.com/vmalyi/run-or-walk project which aims to detect whether the person is running or walking based on deep neural network and sensor data collected from iOS device.
